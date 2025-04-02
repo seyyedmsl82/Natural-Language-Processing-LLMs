@@ -1,4 +1,4 @@
-# 🍜 Caht Food: An AI Food Ordering Assistant
+# 🍜 Chat Food: An AI Food Ordering Assistant
 
 A modular, intelligent food assistant built using **LangGraph**, **Chainlit**, **LlamaParse**, **LanceDB**, and **Together AI APIs**. This chatbot can help users find food, manage their orders, ask for recommendations, and retrieve food-related knowledge — all in a seamless conversational interface.
 
