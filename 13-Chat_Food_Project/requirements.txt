@@ -1,0 +1,33 @@
+# Core LLM & LangGraph Framework
+langgraph~=0.0.40
+langchain~=0.1.14
+langchain-openai~=0.1.4
+langchain-together~=0.0.3
+langchain-community~=0.0.31
+langchain-core~=0.1.39
+
+# Google + Together AI support
+langchain-google-genai~=0.0.6
+
+# Vector DB & Parsing
+lancedb~=0.4.7
+llama-parse~=0.4.1
+llama-index-core~=0.10.21
+llama-index-readers-file~=0.1.7
+
+# Web Search API
+tavily-python~=0.3.3
+langchain-community-tools~=0.0.4
+
+# Chainlit for frontend
+chainlit~=1.0.5
+
+# Misc utilities
+Levenshtein~=0.25.1
+pydantic~=2.6
+pandas~=2.2
+nest_asyncio~=1.6
+python-dotenv~=1.0
+
+# Jupyter / Dev (optional)
+ipython~=8.22
